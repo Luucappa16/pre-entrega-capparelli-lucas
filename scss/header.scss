@@ -1,0 +1,32 @@
+header{
+    background-color: #A31621;
+    width: 100%;
+    padding: 10px 10px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+header img{
+    width:69px;
+}
+header ul{
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+header .menu-item a{
+    text-decoration: none;
+    font-size: 18px;
+    color: white;
+    font-weight: 500;
+    padding: 0px 40px;
+    align-items: center;
+    justify-content: center;
+}
+}
+
+
